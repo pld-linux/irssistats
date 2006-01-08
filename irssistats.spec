@@ -1,5 +1,5 @@
 Summary:	Generates HTML IRC stats based on irssi logs
-Summary(pl):	Generuje statystyki kana³u IRC korzystaj±c z logów irssi
+Summary(pl):	Generowanie statystyk kana³u IRC w oparciu o logi irssi
 Name:		irssistats
 Version:	0.70
 Release:	1
@@ -15,11 +15,10 @@ irssistats is a tool that make HTML stats from irssi logfiles. The
 statistics generated display many useful and funny informations about
 the channel.
 
-
 %description -l pl
-irssistats to narzêdzie tworz±ce statystyki w HTML-u korzystaj±ce z
-logów irssi. Statystyki zawieraj± du¿o po¿ytecznych i zabawnych
-informacji o kanale.
+irssistats to narzêdzie tworz±ce statystyki w HTML-u z plików logów
+irssi. Statystyki zawieraj± du¿o po¿ytecznych i zabawnych informacji o
+kanale.
 
 %prep
 %setup -q
