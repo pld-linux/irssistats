@@ -2,7 +2,7 @@ Summary:	Generates HTML IRC stats based on irssi logs
 Summary(pl.UTF-8):	Generowanie statystyk kanału IRC w oparciu o logi irssi
 Name:		irssistats
 Version:	0.75
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications
 Source0:	http://royale.zerezo.com/irssistats/%{name}-%{version}.tar.gz
